@@ -1,0 +1,2 @@
+facebook-sdk
+pymongo[srv]==4.4.1
